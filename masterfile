@@ -1,7 +1,7 @@
 TOUCH(1)                                                        User Commands                                                        TOUCH(1)
 
 NAME
-       touch - change file timestamps
+dddd       touch - change file timestamps
 
 SYNOPSIS
        touch [OPTION]... FILE...
